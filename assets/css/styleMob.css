@@ -161,6 +161,10 @@
     padding-bottom: 2em;
 }
 
+.icon {
+    margin: 5px;
+}
+
 #line {
     border-bottom: 1px solid white;
     width: 50vw;

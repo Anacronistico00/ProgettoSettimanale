@@ -164,6 +164,10 @@
     border-bottom: 1px solid white;
 }
 
+.icon {
+    margin: 5px;
+}
+
 a:link,
 a:visited {
     color: #c8e7f0;
