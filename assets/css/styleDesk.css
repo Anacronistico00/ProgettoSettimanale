@@ -1,0 +1,174 @@
+#container {
+    width: 1920px;
+    font-family: "Open sans", sans-serif;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: black;
+    height: 15vh;
+}
+
+#header>img {
+    display: block;
+    width: 12vw;
+    padding: 2.5rem;
+}
+
+#headSection {
+    background-color: lightgrey;
+    background-image: url("/assets/images/banner.jpg");
+    height: 70vh;
+    padding-top: 10vh;
+}
+
+#title {
+    font-size: 3rem;
+    margin: 1.5em;
+}
+
+#titleDiv {
+    margin:0 400px;
+    box-sizing: border-box;
+}
+
+#titleDescr {
+    font-size: 1.2em;
+    margin: 1em;
+}
+
+#button {
+    background-color: #f04c2f;
+    color: white;
+    border: none;
+    font-size: 1.5vw;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#reasonsWhy {
+    height: 100vh;
+    display: inline-block;
+    align-content: center;
+    box-sizing: border-box;
+}
+
+#reasonsWhy>img {
+    display: inline-block;
+    width: 30vw;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5em;
+    
+}
+
+#reasons {
+    display: inline-block;
+    width: 30vw;
+    font-size: 1.2em;
+}
+
+.reasonHeader {
+    margin: 1em;
+    margin-left: 0;
+}
+
+.reason {
+    text-align: left;
+    margin-bottom: 1em;
+    line-height: 2em;
+}
+
+.headings {
+    font-family: "Montserrat", sans-serif;
+    color: #25a2c3;
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+
+#guaranteed {
+    background-color: #e22d0e;
+    height: 50vh;
+    color: white;
+}
+
+#epicodeGuarantees,
+#guaranteesCit {
+    padding-bottom: 5vh;
+}
+
+#epicodeGuarantees {
+    color: white;
+    font-size: 2em;
+    padding-top: 15vh;
+}
+
+#guaranteesCit {
+    font-size: 32px;
+    font-style:oblique;
+}
+
+#cit {
+    font-size: 32px;
+    line-height: 50px;
+}
+
+#bottomSection {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    box-sizing: border-box;
+    height: 80vh;
+}
+
+.bottomTiles {
+    width: 40%;
+    display: inline-block;
+    border: 1px solid #dee1e3;
+    width: 26vw;
+    margin-top: 20vh;
+    margin-right: 5vh;
+}
+
+.bottomTiles>img {
+    width: 26vw;
+    height: 35vh;
+}
+
+#footer {
+    background-color: #25a2c3;
+    color: #c8e7f0 ;
+    height: 50vh;
+    box-sizing: border-box;
+    padding: 5%;
+}
+
+#footerHeader {
+    color: white;
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 1.2em;
+}
+
+#contacts {
+    line-height: 2em;
+    margin-left: 40.5%;
+    margin-right: 40.5%;
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 2em;
+    border-bottom: 1px solid white;
+}
+
+a:link,
+a:visited {
+    color: #c8e7f0;
+}
+
+#copyright {
+    margin-top: 2em;
+}
